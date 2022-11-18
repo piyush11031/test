@@ -1,2 +1,2 @@
 print("hello")
-print("yyyo")
+print("yy")
